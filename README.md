@@ -4,7 +4,6 @@ A collection of my Arduino experiments — from beginner to advanced.
 
 ## Beginner
 - [Blink LED](beginner/01-blink-led)
-- [Analog Output] (beginner/02-blink-led)
 - [Potentiometer LED](beginner/03-potentiometer-led)
 
 ## Intermediate
